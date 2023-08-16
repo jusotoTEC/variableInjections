@@ -1,6 +1,6 @@
 # MATLAB Code from Numerical Experiments in Paper *"Optimal modeling of nonlinear systems: method of variable injections"*
 
-## Author
+## Authors
 
 * Anatoli Torokhti (https://people.unisa.edu.au/anatoli.torokhti) - Email: anatoli.torokhti@unisa.edu.au
 * Pablo Soto-Quiros (https://www.tec.ac.cr/juan-pablo-soto-quiros) - Email: jusoto@tec.ac.cr
