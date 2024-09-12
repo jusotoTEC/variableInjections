@@ -1,4 +1,4 @@
-# MATLAB Code from Numerical Experiments in Paper *"Optimal modeling of nonlinear systems: method of variable injections"*
+# MATLAB Code for Numerical Experiments in the Paper *"Optimal modeling of nonlinear systems: method of variable injections"*
 
 ## Authors
 
